@@ -1,6 +1,6 @@
 # Git_course
-#https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-For webzero school
+##https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+###For webzero school
 
 كل بروجيكت لازم الو repository
 حتى لو واحد موبايل ابلكيشن والتاني ديسكتوب
